@@ -1,9 +1,20 @@
 <footer class="footer">
+  #menu ul{
+    list-style: none;
+  }
+  #menu li{
+    display: inline;
+  }
+  <div id="menu">
+    <ul>
+      <li><a href="mailto:cshukla@g.harvard.edu">E-Mail</a></li>
+      <li><a href="https://github.com/cshukla">Github</a></li>
+      <li><a href="https://twitter.com/cjshukla">Twitter</a></li>
+      <li><a href="https://linkedin.com/in/shuklachinmay">LinkedIn</a></li>
+    </ul>
+  </div>
+
   <div class="container footerBox">
-    <li><a href="mailto:cshukla@g.harvard.edu">E-Mail</a></li>
-    <li><a href="https://github.com/cshukla">Github</a></li>
-    <li><a href="https://twitter.com/cjshukla">Twitter</a></li>
-    <li><a href="https://linkedin.com/in/shuklachinmay">LinkedIn</a></li>
     <p class="copyright text-muted">
       Copyright&nbsp;&copy;&nbsp; {{ site.time | date: '%Y' }} 
       {% if site.pretty-url %} &nbsp;&bull;&nbsp;
