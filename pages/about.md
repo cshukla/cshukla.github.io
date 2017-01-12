@@ -13,6 +13,6 @@ My work in graduate school and my external reading has sparked my interest in th
 
 #### Contact Information
 
-E-Mail: cshukla at g dot harvard dot edu
-Twitter: <a href="https://twitter.com/TwitterDev" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="shuklachinmay"><a class="LI-simple-link" href='https://www.linkedin.com/in/shuklachinmay?trk=profile-badge'>Chinmay Shukla</a></div>
+*E-Mail: cshukla at g dot harvard dot edu
+*Twitter: <a href="https://twitter.com/cjshukla" class="twitter-follow-button" data-show-count="false">Follow @cjshukla</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+*LinkedIn: <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="shuklachinmay"><a class="LI-simple-link" href='https://www.linkedin.com/in/shuklachinmay?trk=profile-badge'>Chinmay Shukla</a></div>
