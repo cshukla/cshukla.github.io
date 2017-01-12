@@ -7,17 +7,17 @@ gems:
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 # If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-url: ""
+#url: "http://rafalib.github.io"
+#baseurl: "/"
+url: "http://cshukla.github.io"
 enforce_ssl: ""
-baseurl: "/jekyllBasic"
+baseurl: ""
 
 # Title of website
-title: Project Name
+title: cshukla
 
 #Default keywords (used if no keywords are specified on a page basis)
-keywords: test1, test2, etc
+keywords: Shukla, Chinmay
 
 # Short description of your site
 desc: Sample Description
@@ -26,25 +26,26 @@ desc: Sample Description
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar.jpg"
+# avatar: "/img/avatar.jpg"
 
 # List of links in the navigation bar
 nav-links:
-  Home: ""
-  About Me: "aboutme"
-  Contact: "contact"  
-  
+    Home: ""
+    About: "pages/about.html"
+    Research: "pages/research.html"
+    Publications: "pages/publications.html"
+    Software: "pages/software.html"
+    Blog: "pages/blog.html"
 # --- Footer options --- #
 
 # If the values are empty, they are ignored 
 profile:
-  name: Babji Chetty
-  email: Your-Email
-  facebook: your-fb-id
-  github: your-github-id 
-  twitter: your-twitter-id
-  linkedin: your-linkedin-id
-  stackoverflow: your-stackoverflow-id
+  name: Chinmay Shukla
+  email: cshukla@g.harvard.edu
+  facebook: chinmayshukla
+  github: cshukla
+  twitter: cjshukla
+  linkedin: shuklachinmay
 
 # To display link in the footer section
 pretty-url: "bchetty.com"
@@ -52,18 +53,15 @@ pretty-url: "bchetty.com"
 # --- Misc --- #
 
 # Your Disqus profile (shortname) settings
-disqus: "Your-Disqus-Id"
+disqus: 
 
 # Google Analytics Settings
-google_analytics: "Your-GA-Id"
+google_analytics: 
 
 # Set these options as you need (For more information, check Jekyll's site)
-timezone: "Europe/Berlin"
+timezone: "America/New_York"
 markdown: kramdown
-#highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+highlighter: rouge
 permalink: /blog/:title
 paginate: 5
 
