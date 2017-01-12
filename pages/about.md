@@ -13,9 +13,10 @@ Before coming to graduate school at Harvard, I got a bachelors and masters degre
 My work in graduate school and my external reading has sparked my interest in the healthcare sector. In particular, I am excited by the application of machine learning to optimize the healthcare system and better human life. To get a broad sense of my interests, you can follow me on [Twitter](https://twitter.com/cjshukla) 
 
 
+<a href="https://twitter.com/cjshukla" class="twitter-follow-button" data-show-count="false">Follow @cjshukla</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#### Contact Information
-
-*E-Mail: cshukla at g dot harvard dot edu
-*Twitter: <a href="https://twitter.com/cjshukla" class="twitter-follow-button" data-show-count="false">Follow @cjshukla</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-*LinkedIn: <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="shuklachinmay"><a class="LI-simple-link" href='https://www.linkedin.com/in/shuklachinmay?trk=profile-badge'>Chinmay Shukla</a></div>
+<a href="https://www.linkedin.com/pub/chinmay-shukla/113/32/9a4">
+      
+          <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" width="160" height="33" border="0" alt="View Chinmay Shukla's profile on LinkedIn">
+        
+    </a>
