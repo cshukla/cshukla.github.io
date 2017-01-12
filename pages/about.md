@@ -14,5 +14,9 @@ My work in graduate school and my external reading has sparked my interest in th
 
 
 
-<a href="https://twitter.com/cjshukla" class="twitter-follow-button" data-show-count="false">Follow @cjshukla</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <a href="https://www.linkedin.com/pub/chinmay-shukla/113/32/9a4"> <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" alt="View Chinmay Shukla's profile on LinkedIn"> </a> <a class="github-button" href="https://github.com/cshukla" data-style="mega" data-count-href="/cshukla/followers" data-count-api="/users/cshukla#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @cshukla on GitHub">Follow @cshukla</a>
+<a href="https://twitter.com/cjshukla" class="twitter-follow-button" data-show-count="false">Follow @cjshukla</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<a href="https://www.linkedin.com/pub/chinmay-shukla/113/32/9a4"> <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" alt="View Chinmay Shukla's profile on LinkedIn"> </a> 
+
+<a class="github-button" href="https://github.com/cshukla" data-style="mega" data-count-href="/cshukla/followers" data-count-api="/users/cshukla#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @cshukla on GitHub">Follow @cshukla</a><script async defer src="https://buttons.github.io/buttons.js"></script>
 
