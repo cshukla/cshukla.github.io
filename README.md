@@ -1,7 +1,5 @@
-# jekyllBasic
+# Chinmay Shukla website
 
-A simple, minimal, responsive theme built using Jekyll.
+A simple, minimal, responsive theme built using Jekyll adapted from a jekyll theme by [bchetty](https://github.com/bchetty/jekyllBasic)
 
-You can use this template/theme to build your new or existing site.
-
-DEMO: https://bchetty.com/jekyllBasic/
+You can see it here: http://cshukla.github.io
