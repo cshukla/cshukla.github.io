@@ -31,7 +31,7 @@ desc: Sample Description
 # List of links in the navigation bar
 nav-links:
     Home: ""
-    About: "pages/about.html"
+    About: "pages/about.md"
     Research: "pages/research.html"
     Publications: "pages/publications.html"
     Software: "pages/software.html"
