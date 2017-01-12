@@ -1,5 +1,5 @@
 ---
-layout:template1
+layout: template1
 title: About
 ---
 
