@@ -10,13 +10,9 @@ I'm a joint graduate student at Harvard Medical School with [Dr. Rafael Irizarry
 
 Before coming to graduate school at Harvard, I got a bachelors and masters degree in biotechnology from Indian Institute of Technology Madras. I loved my time at IIT Madras and after a rocky start in my first semester, I went on to recieve several awards for best acadmeic perfomance. During my time at IIT Madras, I spent a summer doing research at Yale University and another one at University of Wisconsin Madison as a Khorana Scholar. You can read more about my work in IIT Madras [here](http://openwetware.org/wiki/User:Chinmay_Shukla).
 
-My work in graduate school and my external reading has sparked my interest in the healthcare sector. In particular, I am excited by the application of machine learning to optimize the healthcare system and better human life. To get a broad sense of my interests, you can follow me on [Twitter](https://twitter.com/cjshukla) 
+My work in graduate school and my external reading has sparked my interest in the healthcare sector. In particular, I am excited by the application of machine learning to optimize the healthcare system and better human life. To get a broad sense of my interests, you can follow me on Twitter.
 
 
 <a href="https://twitter.com/cjshukla" class="twitter-follow-button" data-show-count="false">Follow @cjshukla</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a href="https://www.linkedin.com/pub/chinmay-shukla/113/32/9a4">
-      
-          <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" width="160" height="33" border="0" alt="View Chinmay Shukla's profile on LinkedIn">
-        
-    </a>
+<a href="https://www.linkedin.com/pub/chinmay-shukla/113/32/9a4"> <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" alt="View Chinmay Shukla's profile on LinkedIn"> </a>
