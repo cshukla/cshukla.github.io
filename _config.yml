@@ -35,7 +35,7 @@ nav-links:
     Research: "pages/research.html"
     Publications: "pages/publications.html"
     Software: "pages/software.html"
-    Outside Lab: "pages/outsideLab.html"
+    OutsideLab: "pages/outsideLab.html"
 # --- Footer options --- #
 
 # If the values are empty, they are ignored 
