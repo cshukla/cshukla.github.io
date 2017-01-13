@@ -35,7 +35,7 @@ nav-links:
     Research: "pages/research.html"
     Publications: "pages/publications.html"
     Software: "pages/software.html"
-    Blog: "www.outsidetwostandarddeviations.wordpress.com"
+    Blog: [Blog](www.outsidetwostandarddeviations.wordpress.com)
 # --- Footer options --- #
 
 # If the values are empty, they are ignored 
