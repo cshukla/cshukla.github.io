@@ -3,10 +3,4 @@ layout: template1
 title: Research
 ---
 
-### Background
-
-### Sequence elements that drive function of long non coding RNAs
-
-#### Nuclear Localization elements
-
-#### Repeat elements
+Will be updated with a brief summary of projects as the resulting publications come out
