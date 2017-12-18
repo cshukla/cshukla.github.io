@@ -7,9 +7,9 @@ gems:
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 # If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
-url: "http://cshukla.github.io"
+url: ""
 enforce_ssl: ""
-baseurl: "/"
+baseurl: ""
 
 # Title of website
 title: Chinmay Shukla
@@ -28,12 +28,12 @@ desc: Sample Description
 
 # List of links in the navigation bar
 nav-links:
-    Home: ""
-    About: "pages/about.html"
-    Research: "pages/research.html"
-    Publications: "pages/publications.html"
-    Software: "pages/software.html"
-    OutsideLab: "pages/outsideLab.html"
+    Home: "http://cshukla.github.io"
+    About: "http://cshukla.github.io/pages/about.html"
+    Research: "http://cshukla.github.io/pages/research.html"
+    Publications: "http://cshukla.github.io/pages/publications.html"
+    Software: "http://cshukla.github.io/pages/software.html"
+    OutsideLab: "http://cshukla.github.io/pages/outsideLab.html"
     Blog: "www.medium.com/@outside2SDs"
 # --- Footer options --- #
 
