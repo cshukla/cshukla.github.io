@@ -14,6 +14,7 @@ Currently, I have 2 articles published or in print at journals while 2 more are 
 
 4. McCorkindale A.L., Wahle P., Jungreis I., Menzel P., **Shukla C.J.**, Abreu R.L.P., Irizarry R.A., Meyer I.M., Kellis M., Rinn J.L., Zinzen R.P. Spatiotemporal long noncoding RNA expression during embryonic neurogenesis in Drosophila (in review)
 
+5. Kimes P., Korthauer K.D., Reyes A., Duvallet C., Subramanian A., Teng M., **Shukla C.J.**, Hicks S.C. A practical guide for methods controlling False Discovery Rates (in preparation)
 
 <div class="jumbotron">
 <p>I recently put a <a href="https://www.biorxiv.org/content/early/2017/09/15/189654">paper on bioRxiv</a> (in print at EMBO currently) describing a new high throughput genomics technique to identify nuclear enrichment sequences. We also develop a new statistical method available in a package called <a href="https://github.com/cshukla/oligoGames">oligoGames</a> to normalize, model and infer from this new dataset. Below I show the first figure from the paper. It describes a schematic of the new experimental technique (panel A), an overview of the analysis (panel B-D) and successful results for two controls in the dataset. I invite you to read the preprint to learn more details</p>
