@@ -7,11 +7,9 @@ gems:
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 # If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
-#url: "http://rafalib.github.io"
-#baseurl: "/"
 url: "http://cshukla.github.io"
 enforce_ssl: ""
-baseurl: ""
+baseurl: "/"
 
 # Title of website
 title: Chinmay Shukla
@@ -47,6 +45,7 @@ profile:
   github: cshukla
   twitter: cjshukla
   linkedin: shuklachinmay
+  medium: outside2SDs
 
 # To display link in the footer section
 pretty-url: "bchetty.com"
