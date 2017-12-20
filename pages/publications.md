@@ -3,6 +3,16 @@ layout: template1
 title: Publications
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111431367-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111431367-4');
+</script>
+
 Currently, I have 2 articles published or in print at journals while 2 more are in the pipeline. To introduce you to my work, for my published articles, I have also included small snippets below which quickly describe the whole paper.
 
 1. **Shukla C.J.**, McCorkindale A.L., Gerhardinger C., Korthauer K.D., Cabili M.N., Shechner D.M., Irizarry R.A., Maass P.G., Rinn J.L. High-throughput identification of RNA nuclear enrichment sequences **doi:** [https://doi.org/10.1101/189654](https://doi.org/10.1101/189654)

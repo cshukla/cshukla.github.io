@@ -3,6 +3,16 @@ layout: template1
 title: Outside Lab
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111431367-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111431367-5');
+</script>
+
 I believe that to be successful in lab you need to spend time doing things you love outside lab. These activities help me step away from scientific problems, reenergize me and often help mee see completely novel solutions. Plus, its fun! :smile:
 
 Currently, I am mainly focused on 2 things outside lab:
