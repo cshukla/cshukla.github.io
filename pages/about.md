@@ -15,18 +15,10 @@ title: About
 
 #### Bio
 
+I am a graduate student at Harvard Medical School in [Dr. Rafael Irizarry's](http://rafalab.github.io) lab. I am broadly interested in the field of genomics and I have cultivated extensive skills in both statistics and molecular biology during graduate school. For my thesis project, I have developed a [new high throughput screen](https://www.biorxiv.org/content/early/2017/09/15/189654) to identify functional regions within RNAs. Further, in order to analyze this new dataset and learn from it, I developed new statistical techniques available now on [GitHub](https://github.com/cshukla/oligoGames).
 
-I'm a joint graduate student at Harvard Medical School with [Dr. Rafael Irizarry](http://rafalab.github.io) and [Dr. John Rinn](http://rinnlab.com) where I study various sequence modules governing the function of non coding RNA. As a graduate student, I am interested in combining novel functional genomics techniques with simple statistics and data science to uncover fundamental secrets about RNA. I am involved in several student groups on campus including the [Graduate Student Council](http://gsc.fas.harvard.edu/people/chinmay-shukla), [Harvard Biotech Club](http://thebiotechclub.org/leadership-team/) and Harvard India Student Group. I also started a new student group on campus - [Harvard Big Data Association in GSAS (HBDA)](http://harvardbigdata.com). HBDA focuses on building data science skills among students, acting as a bridge between companies and graduate students and raising awareness about data science topics in the wider Harvard community. One of my other major interests is communicating science to the wider public. Currently, I work as a science writer for [The Munich Eye](http://themunicheye.com/global_scripts/contributors/index.php?contributor=Chinmay%20Shukla) writing articles to explain interesting research articles for the regular reader.
+I am quite excited by start ups and love the feeling of building something new. To investigate start ups more, I spent 3 months from June 2017 to August 2017 at [Flaghsip Pioneering](http://flagshippioneering.com) exploring start up opportunities in several interesting areas including the microbiome, AI driven biotech and immuno oncology. 
 
-Before coming to graduate school at Harvard, I got a bachelors and masters degree in biotechnology from Indian Institute of Technology Madras. I loved my time at IIT Madras and after a rocky start in my first semester, I went on to recieve several awards for best acadmeic perfomance. During my time at IIT Madras, I spent a summer doing research at Yale University and another one at University of Wisconsin Madison as a Khorana Scholar. You can read more about my work in IIT Madras [here](http://openwetware.org/wiki/User:Chinmay_Shukla).
+I have been very lucky in my life to have amazing mentors who give me great advice and support. As a result, I am passionate about more generally creating a supportive environment for graduate students. To this end, I started a new student group at Harvard focussing on graduate students interested in [data science](http://www.harvardbigdata.com).
 
-My work in graduate school and my external reading has sparked my interest in the healthcare sector. In particular, I am excited by the application of machine learning to optimize the healthcare system and better human life. To get a broad sense of my interests, you can follow me on Twitter.
-
-
-
-<a href="https://twitter.com/cjshukla" class="twitter-follow-button" data-show-count="false">Follow @cjshukla</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-<a href="https://www.linkedin.com/pub/chinmay-shukla/113/32/9a4"> <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" alt="View Chinmay Shukla's profile on LinkedIn"> </a> 
-
-<a class="github-button" href="https://github.com/cshukla" data-style="mega" data-count-href="/cshukla/followers" data-count-api="/users/cshukla#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @cshukla on GitHub">Follow @cshukla</a><script async defer src="https://buttons.github.io/buttons.js"></script>
-
+If you want to connect with me, message me on [LinkedIn](https://www.linkedin.com/in/shuklachinmay). I am always up for discussing ideas in data science, machine learning and healthcare.
