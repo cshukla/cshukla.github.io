@@ -34,7 +34,6 @@ nav-links:
     Publications: "pages/publications.html"
     Software: "pages/software.html"
     OutsideLab: "pages/outsideLab.html"
-    Blog: "[blog](www.medium.com/@outside2SDs)"
 # --- Footer options --- #
 
 # If the values are empty, they are ignored 
