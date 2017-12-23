@@ -24,9 +24,9 @@ Currently, I am mainly focused on 2 things outside lab:
 
 The biggest reason for my success in life has been the advice and guidance of amazing mentors. These people have not only helped me improve my technical skills but have also helped me navigate graduate school and think deeper about how to be truly happy. Unfortunately, though not everyone has such amazing mentors. Recognizing this unmet need (especially for PhD students), I co-founded the [Harvard Big Data Club](www.harvardbigdata.com) in 2016 to 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1). Improve tech skills of the community 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2). Act as a bridge between graduate students and tech companies
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3). Increase general data science awareness on campus. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1). Improve tech skills of the community <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2). Act as a bridge between graduate students and tech companies <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3). Increase general data science awareness on campus <br> 
 
 I am also actively involved with other graduate student groups at Harvard. Recently, I served as [Treasurer of Graduate Student Council](http://gsc.fas.harvard.edu/people/chinmay-shukla) where I managed the budget for the council, made funding decisions and was involved in advocacy for student issues such as subsidized T passes.
 
