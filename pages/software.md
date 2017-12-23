@@ -19,7 +19,7 @@ In the post-genomic era, thousands of putative noncoding regulatory regions have
 
 We applied MPRNA to identify RNA-based nuclear localization domains harbored in lncRNAs. We examined a pool of 11,969 oligos densely tiling 38 human lncRNAs that were fused to a cytosolic transcript. After cell fractionation and barcode sequencing, we identified 109 unique RNA regions that significantly enriched this cytosolic transcript in the nucleus including a cytosine-rich motif. These nuclear enrichment sequences are highly conserved and over-represented in global nuclear fractionation sequencing. Importantly, many of these regions were independently validated by single molecule RNA fluorescence in situ hybridization. Overall, we demonstrate the utility of MPRNA for future investigation of RNA-based functionalities. 
 
-<center><img src="https://github.com/cshukla/cshukla.github.io/blob/master/assets/img/oligoGames.synopsis.jpg?raw=true" style="width:272.697px;height:208.2px;"></center>
+<center><img src="https://github.com/cshukla/cshukla.github.io/blob/master/assets/img/oligoGames.synopsis.jpg?raw=true" style="width:393px;height:300px;"></center>
 
 #### Local Repeats
 
