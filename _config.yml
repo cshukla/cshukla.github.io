@@ -30,8 +30,8 @@ desc: Personal Website
 nav-links:
     Home: ""
     About: "pages/about.html"
-    Publications: "pages/publications.html"
     Research & Software: "pages/software.html"
+    Publications: "pages/publications.html"
     For Fun: "pages/fun.html"
 # --- Footer options --- #
 
