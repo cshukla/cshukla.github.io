@@ -30,13 +30,8 @@ CLSB 11005<br/>
 450 Brookline Ave<br/>
 Boston, Massachusetts 02215<br/>
 USA<br/><br/>
-
-<div id="hide_email">
-<code>csh</code><b>I</b><code>ukl</code><b>don't</b><code>a</code><b>want</b><code>@</code><b>spam!
-</b><code>g</code><b>So</b><code>.</code><b>please</b><code>harv</code><b>leave
-</b><code>ard</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+<code>csh</code><code>ukl</code><code>a</code><code>@</code><code>g</code><code>.</code><code>harv</code><code>ard</code><code>.</code><code>e</code><code>du</code><br/>
 <a href="https://github.com/cshukla">GitHub</a><br/>
 <a href="https://linkedin.com/in/shuklachinmay">LinkedIn</a><br/>
 <a href="https://twitter.com/cjshukla" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="true">Follow @cjshukla</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><br/>
-</div>
