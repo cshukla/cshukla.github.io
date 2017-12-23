@@ -30,7 +30,7 @@ CLSB 11005<br/>
 450 Brookline Ave<br/>
 Boston, Massachusetts 02215<br/>
 USA<br/>
-<code>cshukla@g.harvard.edu</code></br>
+<code>cshukla@g.harvard.edu</code><br/>
 <a href="https://github.com/cshukla">GitHub</a><br/>
 <a href="https://linkedin.com/in/shuklachinmay">LinkedIn</a><br/>
 <a href="https://twitter.com/cjshukla" class="twitter-follow-button" data-show-count="false" data-size="large" data-show-screen-name="true">Follow @cjshukla</a>
