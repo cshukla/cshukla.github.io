@@ -14,23 +14,175 @@ layout: template1
 
 <!-- Main component for a primary marketing message or call to action -->
 <div class="jumbotron">
-	<h1>Welcome</h1>
+	<h2>Welcome</h2>
     <img style="float: right;width:300px;height:300px;" hspace="20" src="https://github.com/cshukla/cshukla.github.io/blob/master/assets/img/IMG_0369.jpg?raw=true"> <br>
-    <p align="justify"> I am Chinmay Shukla, a graduate student in the Biological
-    	and Biomedical Sciences program at Harvard University. 
-    	For my thesis project, I am focused on dissecting and 
-    	characterizing sequence elements responsible for different
-    	functions of long non coding RNAs (lncRNAs) under the 
-        direction of 
-        <a href="http://rafalab.github.io"> Dr. Rafael Irizarry</a>. 
-        Outside lab, I am passionate about reading non-fiction, 
-        explaining science to people with non-scientific backgrounds 
-        and exploring the world. 
+    <p align="justify"> I am Chinmay Shukla, a graduate student in the Biological and Biomedical Sciences program at Harvard University. For my thesis project, I am focused on dissecting and 
+    	characterizing sequence elements responsible for different functions of long non coding RNAs (lncRNAs) under the direction of <a href="http://rafalab.github.io" target="_blank"> Dr. Rafael Irizarry</a>. 
+      Outside lab, I am passionate about reading non-fiction, explaining science to people with non-scientific backgrounds and exploring the world. 
     </p>
 
-    <p align="justify"> This page provides information on my research projects. 
-    	I frequently blog on experiences in graduate school at  
-    	<a href="http://medium.com/@outside2SDs">
-      	Outside Two Standard Deviations</a>.</p>
+    <p align="justify"> This page provides information on my research projects. I frequently blog on experiences in graduate school at  <a href="http://medium.com/@outside2SDs" target="_blank"> Outside Two Standard Deviations</a>.</p>
             
+</div>
+
+<div style="max-width: 400px;margin-left: auto ; margin-right: auto ;">
+
+<script type="text/javascript" src="assets/js/jssor.slider-21.1.min.js"></script>
+<!-- use jssor.slider-21.1.debug.js instead for debug -->
+<script>
+  jssor_1_slider_init = function() {
+  
+  var jssor_1_SlideshowTransitions = [
+  {$Duration:1200,$Opacity:2}
+  ];
+  
+  var jssor_1_options = {
+  $AutoPlay: true,
+  $SlideshowOptions: {
+  $Class: $JssorSlideshowRunner$,
+  $Transitions: jssor_1_SlideshowTransitions,
+  $TransitionsOrder: 1
+  },
+  $ArrowNavigatorOptions: {
+  $Class: $JssorArrowNavigator$
+  },
+  $BulletNavigatorOptions: {
+  $Class: $JssorBulletNavigator$
+  }
+  };
+  
+  var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+  
+  //responsive code begin
+  //you can remove responsive code if you don't want the slider scales while window resizing
+  function ScaleSlider() {
+  var refSize = jssor_1_slider.$Elmt.parentNode.clientWidth;
+  if (refSize) {
+  refSize = Math.min(refSize, 600);
+  jssor_1_slider.$ScaleWidth(refSize);
+  }
+  else {
+  window.setTimeout(ScaleSlider, 30);
+  }
+  }
+  ScaleSlider();
+  $Jssor$.$AddEvent(window, "load", ScaleSlider);
+  $Jssor$.$AddEvent(window, "resize", ScaleSlider);
+  $Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
+  //responsive code end
+  };
+</script>
+
+<style>
+  
+  /* jssor slider bullet navigator skin 05 css */
+  /*
+  .jssorb05 div           (normal)
+  .jssorb05 div:hover     (normal mouseover)
+  .jssorb05 .av           (active)
+  .jssorb05 .av:hover     (active mouseover)
+  .jssorb05 .dn           (mousedown)
+  */
+  .jssorb05 {
+  position: absolute;
+  }
+  .jssorb05 div, .jssorb05 div:hover, .jssorb05 .av {
+  position: absolute;
+  /* size of bullet elment */
+  width: 16px;
+  height: 16px;
+  background: url('img/b05.png') no-repeat;
+            overflow: hidden;
+  cursor: pointer;
+  }
+  .jssorb05 div { background-position: -7px -7px; }
+  .jssorb05 div:hover, .jssorb05 .av:hover { background-position: -37px -7px; }
+  .jssorb05 .av { background-position: -67px -7px; }
+  .jssorb05 .dn, .jssorb05 .dn:hover { background-position: -97px -7px; }
+  
+  /* jssor slider arrow navigator skin 12 css */
+  /*
+  .jssora12l                  (normal)
+  .jssora12r                  (normal)
+  .jssora12l:hover            (normal mouseover)
+  .jssora12r:hover            (normal mouseover)
+  .jssora12l.jssora12ldn      (mousedown)
+  .jssora12r.jssora12rdn      (mousedown)
+  */
+  .jssora12l, .jssora12r {
+  display: block;
+            position: absolute;
+  /* size of arrow element */
+  width: 30px;
+  height: 46px;
+  cursor: pointer;
+  background: url('assets/img/a12.png') no-repeat;
+  overflow: hidden;
+  }
+  .jssora12l { background-position: -16px -37px; }
+  .jssora12r { background-position: -75px -37px; }
+  .jssora12l:hover { background-position: -136px -37px; }
+  .jssora12r:hover { background-position: -195px -37px; }
+  .jssora12l.jssora12ldn { background-position: -256px -37px; }
+  .jssora12r.jssora12rdn { background-position: -315px -37px; }
+</style>
+
+
+<div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 550px; height: 500px; overflow: hidden; visibility: hidden;">
+  <!-- Loading Screen -->
+  <div data-u="loading" style="position: absolute; top: 0px; left: 0px;">
+    <div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
+    <div style="position:absolute;display:block;background:url('assets/img/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
+  </div>
+  <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 25px; width: 500px; height: 500px; overflow: hidden;">
+    <div data-p="112.50" style="display: none;">
+      <a href="https://www.biorxiv.org/content/early/2017/09/15/189654">
+  <img data-u="image" src="assets/img/oligoGames.synopsis.jpg" title=""/>
+      </a>
+    </div>
+    <div data-p="112.50" style="display: none;">
+      <a href="https://www.biorxiv.org/content/early/2017/09/15/189654">
+  <img data-u="image" src="assets/img/MPRNA.jpg" />
+      </a>
+    </div>
+    <div data-p="112.50" style="display: none;">
+      <a href="https://www.ncbi.nlm.nih.gov/pubmed/27009974">
+  <img data-u="image" src="assets/img/firreRepeats.jpg"  />
+      </a>
+    </div>
+    <div data-p="112.50" style="display: none;">
+      <a href="https://medium.com/outside2sds-wp/reforming-nih-budget-7313fdf1db4a">
+  <img data-u="image" src="assets/img/otsd.png" />
+      </a>
+    </div>
+    <div data-p="112.50" style="display: none;">
+      <a href="http://www.harvardbigdata.com">
+  <img data-u="image" src="assets/img/hbdc.png" />
+      </a>
+    </div>
+    
+    <div data-p="112.50" style="display: none;"> 
+      <a href="https://www.youtube.com/watch?v=QwEuoPkcOUA"> 
+    <img data-u="image" src="assets/img/sitn.jpg" /> 
+      </a> </div> 
+
+   <div data-p="112.50" style="display: none;"> 
+      <a href="https://www.instagram.com/cjshukla"> 
+    <img data-u="image" src="assets/img/IMG_1708.jpg" /> 
+      </a> 
+</div>
+
+  <!-- Bullet Navigator -->
+  <div data-u="navigator" class="jssorb05" style="bottom:16px;right:16px;" data-autocenter="1">
+    <!-- bullet navigator item prototype -->
+    <div data-u="prototype" style="width:16px;height:16px;"></div>
+  </div>
+  <!-- Arrow Navigator -->
+  <span data-u="arrowleft" class="jssora12l" style="top:0px;left:0px;width:30px;height:46px;" data-autocenter="2"></span>
+  <span data-u="arrowright" class="jssora12r" style="top:0px;right:0px;width:30px;height:46px;" data-autocenter="2"></span>
+</div>
+<script>
+  jssor_1_slider_init();
+</script>
+
 </div>
