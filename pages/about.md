@@ -21,7 +21,7 @@ Currently, I am a graduate student at Harvard Medical School in [Dr. Rafael Iriz
 
 I am quite excited by start ups and love the feeling of building something new. To investigate start ups more, I spent 3 months from June 2017 to August 2017 at [Flaghsip Pioneering](http://flagshippioneering.com){:target="_blank"} exploring start up opportunities in several interesting areas including the microbiome, AI driven biotech and immuno oncology. Before graduate school, I studied bioengineering at the Indian Institute of Technology Madras. If you want to connect with me, feel free to contact me. I am always up for discussing ideas in data science, machine learning and healthcare.
 
-__Contact__
+<u>Contact</u>
 
 Chinmay Shukla<br/>
 <a href="http://bcb.dfci.harvard.edu" target="_blank">Department of Biostatistics &amp; Computational Biology</a><br/>
