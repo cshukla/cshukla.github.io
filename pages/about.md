@@ -23,11 +23,9 @@ I am quite excited by start ups and love the feeling of building something new. 
 
 <b>Contact</b><br/>
 Chinmay Shukla<br/>
-<a href="http://bcb.dfci.harvard.edu" target="_blank">Department of Biostatistics &amp; Computational Biology</a><br/>
-<a href="http://www.dana-farber.org" target="_blank">Dana-Farber Cancer Institute</a><br/>
 CLSB 11005<br/>
 <a href="http://bcb.dfci.harvard.edu" target="_blank">Department of Biostatistics &amp; Computational Biology</a><br/>
-<a href="http://www.dana-farber.org" target="_blank">Dana-Farber Cancer 
+<a href="http://www.dana-farber.org" target="_blank">Dana-Farber Cancer Institute</a><br/>
 450 Brookline Ave<br/>
 Boston, Massachusetts 02215<br/>
 USA<br/>
